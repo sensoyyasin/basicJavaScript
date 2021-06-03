@@ -18,7 +18,7 @@ console.log(customer.customerNumber)
 class IndividualCustomer extends Customer{
     constructor(firstName,id,customerNumber){
         super(id,customerNumber)
-        this.fırstName = firstName
+        this.firstName = firstName
     }
 
 }
