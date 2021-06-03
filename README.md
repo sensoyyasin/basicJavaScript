@@ -1,2 +1,2 @@
-# basicJavaScript
-basic.js
+# BasicJavaScript
+Base repository basic JS course with engindemirog
